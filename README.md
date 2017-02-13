@@ -22,7 +22,7 @@ The code is divided in 3 set of files
 
 *Check the final output here * 
 
-The live stream of the sentiments will look like this _this one is for happy_
+_The live stream of the sentiments will look like this:_
 
 <img src ="images/graph.png" />
 
