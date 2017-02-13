@@ -9,8 +9,15 @@
 [To know how to get Twitter access tokens Click Here! ](https://dev.twitter.com/oauth/overview)
 
 The code is divided in 3 set of files
-1.First one is just a streaming file **twitter_streaming.py** {This file contains code only to stream tweets}
-..* remember the stram now is restricted to 3240 tweets only.
-2.Second file **streaming.py** {This filecontains the core code}
-3.Third file **graphing.py ** is the NLTK graphing file for Data Visualisation.
+
+
+
+1.First one is just a streaming file twitter_streaming.py {This file contains code only to stream tweets}, remember the stram now is restricted to 3240 tweets only.
+
+
+2.Second file streaming.py {This file contains the core code}
+
+
+3.Third file graphing.py  is the NLTK graphing file for Data Visualisation.
+
 
