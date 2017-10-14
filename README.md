@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis-and-Graphing
+# Twitter_Sentiment_Analysis_and_Graphing
 ## Twitter Sentiment Analysis using NLTK
 [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 
@@ -12,7 +12,7 @@ The code is divided in 3 set of files
 
 
 
-1.First one is just a streaming file twitter_streaming.py {This file contains code only to stream tweets}, remember the stram now is restricted to 3240 tweets only.
+1.First one is just a streaming file twitter_streaming.py {This file contains code only to stream tweets}, remember the stram now is restricted to 3240 tweets only due to permission criteria.
 
 
 2.Second file streaming.py {This file contains the core code}
