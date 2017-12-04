@@ -20,7 +20,7 @@ The code is divided in 3 set of files
 
 3.Third file graphing.py  is the NLTK graphing file for Data Visualisation.
 
-*Check the final output here * 
+**Check the final output here** 
 
 _The live stream of the sentiments will look like this:_
 
